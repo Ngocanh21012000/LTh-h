@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/tutorial/rmi/Constants.java=UTF-8
+encoding//src/org/tutorial/rmi/WeatherService.java=UTF-8
+encoding//src/org/tutorial/rmi/client/Client.java=UTF-8
+encoding//src/org/tutorial/rmi/server/Server.java=UTF-8
